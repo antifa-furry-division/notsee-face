@@ -3,3 +3,5 @@ facenet_pytorch
 mmcv
 Pillow
 tqdm
+dlib
+face_recognition
