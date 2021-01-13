@@ -1,0 +1,5 @@
+tensorflow-gpu
+facenet_pytorch
+mmcv
+Pillow
+tqdm
