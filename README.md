@@ -32,3 +32,11 @@ This step:
 1. Create a folder called `stage1` (mirroring the data being `stage2`)
 1. Copy all .mp4 and .mkv files to `stage1/<md5sum>.<ext>`. (This doesn't need to be cryptographically secure, just unique)
  
+## Batch extract 
+
+[Setting up `face_recognition` with CUDA is out of scope of this tutorial]
+
+1. Copy `batch_face_extract.py` into `stage1` and run it.
+1. Run `batch_face_extract.py`, #walkaway
+
+Look at faces.
