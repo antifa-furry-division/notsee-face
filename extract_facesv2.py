@@ -36,7 +36,7 @@ def main(input_file):
         frame_draw = frame.copy()
         draw = ImageDraw.Draw(frame_draw)
         if boxes is not None:
-            for box in tqdm.tqdm(boxes, position=1):
+            for box in boxes:
                 pt1 = box.tolist()[:2]
                 pt2 = box.tolist()[2:4]
                 face = frame.crop(pt1+ pt2)
