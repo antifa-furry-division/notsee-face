@@ -5,3 +5,4 @@ Pillow
 tqdm
 dlib
 face_recognition
+opencv-python
