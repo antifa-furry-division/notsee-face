@@ -10,6 +10,13 @@ on the shoulders of giants
 ## Get the repo.
 
     https://github.com/antifa-furry-division/notsee-face.git
+    
+## Setup Python
+ 
+    python3 -mvenv venv
+    source venv/bin/activate
+    pip install -U pip wheel setuptools
+    pip install -r requirements.txt
 
 ## Mirror The Data
 
