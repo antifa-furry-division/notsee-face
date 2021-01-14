@@ -72,3 +72,6 @@ Creates:
 [capitol.dfxml](https://github.com/antifa-furry-division/notsee-face/blob/main/capitol.dfxml)
 
 Digital Forensics XML is an XML language used to automate digital forensics processing. DFXML contains information about both the results of forensic processing and the tools used to perform the processing. Currently there is no Digital Forensics XML standard and there is no fixed schema. There is a draft schema available from NIST.
+
+- https://github.com/simsong/dfxml/
+- https://en.wikipedia.org/wiki/Digital_Forensics_XML
